@@ -25,13 +25,13 @@
 
 # About Liferay
 
-- Estructura organizativa concienciada socialmente
+- Estructura organizativa socialmente concienciada
 - Un mundo mejor es posible
 - Liferay Foundation y EVP
     - Ayuda en la reconstrucción de casas por el terremoto de Haiti
     - Construcción de casas para familias pobres en Rojo Gomez (México)
     - Ayuda durante el desastre del huracán Katrina
-    - Ayuda durante un campamento de la comunidad japonesa
+    - Monitores de campamento en Santa Cruz (California)
 
 ---
 
@@ -62,8 +62,8 @@
     - Buscadores
 - Intercambiando Información
     - Correo Electrónico
-    - Mensajería Instantánea
 - Conectando con otros
+    - Mensajería Instantánea
     - Redes Sociales
 
 ---
@@ -71,24 +71,47 @@
 # Buscadores
 
 - Principales motores de búsqueda
+
+<img src="img/search-engines.png" style="height: 400px" title="Motores de Búsqueda"/>
+
+---
+
+# Buscadores
+
 - Técnicas de Búsqueda
+    - El símbolo |
+    - Las comillas
+    - Eliminar palabras
+    - Términos similares
+    - Comodín
+    - Rango de Números
+    - Restringir búsquedas a un pais o dominio específico
+    - Voy a tener suerte
+
+<span class="tooltip">
+    Fuente: <a href="http://www.tufuncion.com/ayuda-google">http://www.tufuncion.com/ayuda-google</a>
+</span>
 
 ---
 
 
-# Intercambio de Información
+# Correo electrónico
 
-- Correo electrónico
-- Mensajería Instantánea
-    - Messenger
-    - Google Talk
-    - Skype
+![Principales proveedores de e-mail](img/email.png)
 
 ---
 
-# Conexión
+# Mensajería Instantánea
 
-- Redes Sociales
+- Messenger
+- Google Talk
+- Skype
+
+---
+
+# Redes Sociales
+
+![Redes Sociales](img/social-networks.png)
 
 ---
 

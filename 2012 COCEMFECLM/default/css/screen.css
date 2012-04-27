@@ -141,11 +141,15 @@ section, .slide header:only-child h1 {
 }
 
 section img {
-  height: 440px;
+  height: 400px;
 }
 
 section .logo {
-  height: 100px
+  height: 100px;
+}
+
+section .tooltip {
+  font-size: 0.7em;
 }
 
 a {
