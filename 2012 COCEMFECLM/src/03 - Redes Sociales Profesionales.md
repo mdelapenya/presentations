@@ -170,8 +170,9 @@
 
 # Facebook Basics
 
-- Muro
+- Contenidos
 - Amigos
+- Muro
 - Me gusta
 - Compartir
 - Privacidad
@@ -183,22 +184,39 @@
 
 ---
 
-# Muro
+# Contenidos
 
-- Espacio para publicar y compartir con tus amigos.
-- Compartir con un público amplio qué estás pensando: 
-    - Actualizar tu estado y compartir fotos, vídeos, enlaces y contenidos de otras aplicaciones. 
-    - Publicaciones en tu perfil y también en la sección de noticias.
-- Compartir con un pequeño grupo (familiares, tu equipo de fútbol o tu club de lectura)
-- Compartir con un amigo.
-    - Los amigos de tu amigo también podrán ver tu publicación. 
-- Compartir algo en privado: envía un mensaje privado. 
+- Son las **COSAS** que podemos utilizar: 
+    - Fotos
+    - Vídeos
+    - Enlaces
+    - Contenidos de otras aplicaciones. 
 
 ---
 
 # Amigos
 
-- Amigos
+- Son los **DESTINATARIOS** de nuestras acciones:
+    - Amigos individuales
+    - Listas de amigos
+- Acciones que podemos hacer:
+    - Enviar solicitudes de amistad
+    - Añadir, Eliminar y Bloquear
+    - Etiquetado de amigos
+
+---
+
+# Muro
+
+- Es **DONDE** podemos interactuar:
+    - Espacio para publicar y compartir con tus amigos.
+    - Compartir con un público amplio qué estás pensando: 
+        - Actualizar tu estado y compartir contenidos. 
+        - Publicaciones en tu perfil y también en la sección de noticias.
+    - Compartir con un pequeño grupo (familiares, tu equipo de fútbol o tu club de lectura)
+    - Compartir con un amigo.
+        - Los amigos de tu amigo también podrán ver tu publicación. 
+    - Compartir algo en privado: envía un mensaje privado. 
 
 ---
 
