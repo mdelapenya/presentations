@@ -1,0 +1,71 @@
+# ABOUT ME, LIFERAY AND COCEMFECLM
+
+---
+
+# About me
+
+- Manuel de la Peña
+- Core software engineer en Liferay ESPAÑA
+- Ingeniero Técnico Informático??
+- Twitter: @mdelapenya
+
+---
+
+# About Liferay
+
+- Central en Los Ángeles
+- Centro de Ingeniería en Madrid
+- 300 empleados
+- Oficinas por todo el mundo
+    - **Europa**: Alemania, España, Hungría, República Checa, Croacia, Serbia, Inglaterra
+    - **Asia**: China, India, Malasia
+    - **América**: Estados Unidos, Brasil, Canadá
+
+---
+
+# About Liferay
+
+- Estructura organizativa socialmente concienciada
+- Un mundo mejor es posible
+- Liferay Foundation y EVP
+    - Ayuda en la reconstrucción de casas por el terremoto de Haiti
+    - Construcción de casas para familias pobres en Rojo Gomez (México)
+    - Ayuda durante el desastre del huracán Katrina
+    - Monitores de campamento en Santa Cruz (California)
+
+---
+
+# About Liferay
+
+<img src="img/liferay.png" title="Liferay" class="h100"/>
+
+- **Enterprise**
+- **Open Source**
+- **For Life**
+
+---
+
+# About COCEMFECLM
+
+<img src="img/cocemfeclm.jpg" title="COCEMFECLM" class="h200" />
+
+- Personas con discapacidad física y orgánica
+- Principio de **igualdad de oportunidades**.
+- **Plena integración**, en el ámbito educativo, laboral y social
+- Eliminar todo tipo de barreras
+
+---
+
+# Agenda
+
+1. La Red como fuente de Información
+2. La Nube
+3. Redes Sociales Profesionales
+4. Blogs
+5. Taller
+
+---
+
+# ¡¡Muchas Gracias!!
+
+![gracias](img/gracias.png)
