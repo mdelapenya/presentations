@@ -17,9 +17,9 @@
 - Centro de Ingeniería en Madrid
 - 300 empleados
 - Oficinas por todo el mundo
-    - __Europa__: Alemania, España, Hungría, República Checa, Croacia, Serbia, Inglaterra
-    - __Asia__: China, India, Malasia
-    - __América__: Estados Unidos, Brasil, Canadá
+    - **Europa**: Alemania, España, Hungría, República Checa, Croacia, Serbia, Inglaterra
+    - **Asia**: China, India, Malasia
+    - **América**: Estados Unidos, Brasil, Canadá
 
 ---
 
@@ -37,26 +37,36 @@
 
 # About Liferay
 
-<img src="img/liferay.png" title="Liferay" class="logo"/>
+<img src="img/liferay.png" title="Liferay" class="h100"/>
 
-- __Enterprise__
-- __Open Source__
-- __For Life__
+- **Enterprise**
+- **Open Source**
+- **For Life**
 
+---
+
+# About COCEMFECLM
+
+<img src="img/cocemfeclm.jpg" title="COCEMFECLM" class="h200" />
+
+- Personas con discapacidad física y orgánica
+- Principio de **igualdad de oportunidades**.
+- **Plena integración**, en el ámbito educativo, laboral y social
+- Eliminar todo tipo de barreras
 
 ---
 
 # Agenda
 
-- La Red como fuente de Información
-- La Nube
-- Redes Sociales Profesionales
-- Blogs
-- Taller
+1. La Red como fuente de Información
+2. La Nube
+3. Redes Sociales Profesionales
+4. Blogs
+5. Taller
 
 ---
 
-# Información en la Red
+# 1 Información en la Red
 
 - Buscando en La Red
     - Buscadores
@@ -68,7 +78,7 @@
 
 ---
 
-# Buscadores
+# 1.1 Buscadores
 
 - Principales motores de búsqueda
 
@@ -76,7 +86,7 @@
 
 ---
 
-# Buscadores
+# 1.1 Buscadores
 
 - Técnicas de Búsqueda
     - El símbolo |
@@ -89,40 +99,125 @@
     - Voy a tener suerte
 
 <span class="tooltip">
-    Fuente: <a href="http://www.tufuncion.com/ayuda-google">http://www.tufuncion.com/ayuda-google</a>
+    Fuente: <a target="_blank" href="http://www.tufuncion.com/ayuda-google">http://www.tufuncion.com/ayuda-google</a>
 </span>
 
 ---
 
+# 1.1 Buscadores
 
-# Correo electrónico
+- Práctica:
+    - Personaje de Interés: **Steve Jobs**
+        - Características de Steve como persona
+        - Inventos de Steve o de su compañía
+    - Materia de Interés: **placas solares**
+        - Características generales
+        - Listado de fabricantes en España
+        - Legislación vigente
+
+---
+
+# 1.2 E-mail
+
+- Comunicación diferida
+- Uno a uno
+- Uno a muchos
+
+---
+
+# 1.2 E-mail
+
+- Principales proveedores de e-mail
 
 ![Principales proveedores de e-mail](img/email.png)
 
 ---
 
-# Mensajería Instantánea
+# 1.2 E-mail
 
-- Messenger
-- Google Talk
-- Skype
+- Práctica:
+    - Creación de una cuenta de correo
+    - You have an email!!
+    - ¿Cuál nos gusta más?
 
 ---
 
-# Redes Sociales
+# 1.3 Instant Messages
+
+- Comunicación en tiempo real
+- Uno a uno
+
+---
+
+# 1.3 Instant Messages
+
+- Principales sistemas de mensajería instantánea
+
+![Principales aplicaciones de Mensajería Instantánea](img/instant-messages.png)
+
+---
+
+# 1.3 Instant Messages
+
+- Práctica:
+    - Vamos a chatear!
+
+---
+
+# 1.4 Redes Sociales
+
+- Comunicación en tiempo real y/o diferido
+- Uno a uno
+- Uno a muchos
+- Creación de redes
+
+<div style="left: 50%;position: absolute;top: 200px;">
+    <img src="img/grafo-red.png" class="h300" title="Redes de Conexión"/>
+</div>
+
+---
+
+# 1.4 Redes Sociales
+
+- Redes sociales más populares en **España**
 
 ![Redes Sociales](img/social-networks.png)
 
 ---
 
+# 1.4 Redes Sociales
 
-# ¿Estás en la nube?
+- En el mundo:
+    - Google+ (EE.UU)
+    - Orkut (Brasil e India): es de Google
+    - QZone (China)
+    - VKontakte (Rusia)
+    - Xing
+    - **Linkedin**
+    - Mixi (Japón)
+
+---
+
+# 1.4 Redes Sociales
+
+- En cifras (20/03/2012):
+
+<a target="_blank" href="http://www.abc.es/20120320/medios-redes/abci-mapa-redes-sociales-201203201824.html">
+    <img src="img/mapa-redes-sociales.png" title="Mapa" style="height: 450px"/>
+</a>
+
+
+
+---
+
+
+# 2 ¿Estás en la nube?
 
 ![la nube](img/cloud.png)
 
 ---
 
-# La nube
+# 2.1 La nube
 
 - ¿Qué es?
 - Un ejemplo claro
@@ -130,7 +225,7 @@
 
 ---
 
-# La nube: cómo nos ayuda
+# 2.2 La nube: cómo nos ayuda
 
 - Beneficios
     - Reducción de costes
@@ -139,18 +234,17 @@
 
 ---
 
-# La nube: Colaborando
+# 2.3 La nube: Colaborando
 
-- __Google Apps__
-- __Dropbox__
-- __Spotify__
+![la nube](img/cloud-examples.png)
 
 ---
 
-# La nube: El caso Google
+# 2.4 La nube: El caso Google
 
 - Gmail
 - Google Calendar
+- Google Maps
 - Google Talk
 - Google Docs
     - Hojas de Cálculo
@@ -159,33 +253,33 @@
 
 ---
 
-# Redes Sociales
+# 3 Redes Sociales
 
-- __Twitter__ : Qué es twitter
-- __Linkedin__ : Linkedin
-- __Facebook Pages__ : Facebooks pages
+- **Twitter** : Qué es twitter
+- **Linkedin** : Linkedin
+- **Facebook Pages** : Facebooks pages
 
 ---
 
-# Twitter
+# 3.1 Twitter
 ![twitter](img/twitter-sing.png)
 
 ---
 
 
-# Linkedin
+# 3.2 Linkedin
 ![linkedin](img/linkedin.png)
 
 ---
 
 
-# Facebook Pages
+# 3.3 Facebook Pages
 ![facebook](img/facebook.png)
 
 ---
 
 
-# Blogs
+# 4 Blogs
 
 - Blogs 1
 - Blogs 2
@@ -193,7 +287,7 @@
 
 ---
 
-# Taller
+# 5 Taller
 
 - Vamos a construir nuestro blog
 - ¿Qué necesitamos?

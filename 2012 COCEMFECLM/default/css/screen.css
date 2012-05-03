@@ -144,8 +144,16 @@ section img {
   height: 400px;
 }
 
-section .logo {
+section .h100 {
   height: 100px;
+}
+
+section .h200 {
+  height: 200px;
+}
+
+section .h300 {
+  height: 300px;
 }
 
 section .tooltip {
