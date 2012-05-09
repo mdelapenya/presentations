@@ -14,9 +14,11 @@
 
 # 5 Taller
 
+- Aprovechemos todo lo visto
 - Vamos a construir nuestro blog
+	- Wordpress
 - ¿Qué necesitamos?
-    - Negocio
+    - Cuál es nuestro negocio
     - Contenidos
     - Imágenes
 

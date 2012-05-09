@@ -12,7 +12,7 @@
 
 ---
 
-# 1 Información en la Red
+# Información en la Red
 
 - Buscando en La Red
     - Buscadores
@@ -67,10 +67,45 @@
 - Uno a uno
 - Uno a muchos
 
+![email](img/logo_e_mail_blanco.png)
+
+---
+
+# Destinatarios de Email
+
+- **TO / Para**
+    - Lista de destinatarios
+    - Nuestro servidor de correo envía un email a cada una de las direcciones.
+- **CC / CC**: con copia
+    - Nuestro servidor de correo envía un único email por cada dominio de correo.
+    - Será el servidor de correo destino el que reparta el email a cada buzón.
+- **BCC / CCO**: con copia oculta
+    - Igual que CC, pero cada destinatario verá que es el único que recibe el correo.
+
+---
+
+# Otras características
+
+- Envío de Ficheros Adjuntos
+- Firma de correo
+- Etiquetas y Filtros (específico de Gmail)
+
 ---
 
 # Proveedores
 ![Principales proveedores de e-mail](img/email.png)
+
+---
+
+# Programas de Correo
+
+- Microsoft Outlook (de pago)
+- Microsoft Outlook Express (de pago)
+- Mozilla Thunderbird (Software Libre)
+
+Necesitan una cuenta de correo a la que asociarse.
+
+- Descargan el correo de Internet al ordenador
 
 ---
 
@@ -86,6 +121,7 @@
 
 - Comunicación en tiempo real
 - Uno a uno
+- Posibilidad de Video Llamada
 
 ---
 
@@ -123,6 +159,7 @@
 - En el mundo:
     - Google+ (EE.UU)
     - Orkut (Brasil e India): es de Google
+    - Pinterest (Global)
     - QZone (China)
     - VKontakte (Rusia)
     - Xing
@@ -148,13 +185,21 @@
 
 # Community Manager
 
-- Nuevo dentro del Marketing, la Publicidad Online y la Biblioteconomía
+- Nuevo dentro del Marketing y la Publicidad Online.
 - Profesión emergente.
 - Generar contenidos atractivos.
-- Convertir ser indispensable para los usuarios.
+- Convertirse en indispensable para los usuarios.
 - Crear, analizar, entender y direccionar la información producida
-- Monitorear acciones que se ejecutan
+- Monitorizar las acciones que se ejecutan
 - Crear estrategias de comunicación digital
+
+---
+
+# Community Manager
+
+- Ejemplos:
+    - Twitter de <a href="http://twitter.com/#!/renfe" target="_blank">@renfe</a>
+    - Twitter de <a href="http://twitter.com/#!/COCACOLA_es" target="_blank">@cocacola_es</a>
 
 ---
 

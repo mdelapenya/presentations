@@ -35,8 +35,7 @@
       {{ css.screen.contents }}
     </style>
     {% else %}
-    <link rel="stylesheet" media="print" href="{{ css.print.path_url }}">
-    <link rel="stylesheet" media="screen, projection" href="{{ css.screen.path_url }}">
+    <link rel="stylesheet" media="screen, projection, print" href="{{ css.screen.path_url }}">
     {% endif %}
     <!-- /Styles -->
     <!-- Javascripts -->

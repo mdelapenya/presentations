@@ -36,6 +36,9 @@ div.slide header {
   color: #95b93d;
 }
 
+strong {
+  color: #95b93d;
+}
 
 div.slide {
   display: none;

@@ -21,16 +21,21 @@
 ---
 
 # Twitter
+
+<a href="https://twitter.com" target="_blank">https://twitter.com</a>
+
 ![twitter](img/twitter-sing.png)
 
 ---
 
 # Twitter
 
+- Microblogging
 - Seguimiento en directo de acontecimientos
     - Terremoto de Tokio
     - Eventos deportivos
     - Programas de Televisión
+    - Congresos y Charlas
 - **Periodistas** somos tod@s
 - Algun@s más y mejor que otros!!
 
@@ -62,6 +67,8 @@
 - Cronología
 - Una lista en tiempo real de los Tweets de las cuentas a quienes sigues. 
 - Aparece en tu página de inicio de Twitter
+
+<img src="img/timeline.png" title="timeline" class="h300"/>
 
 ---
 
@@ -106,7 +113,7 @@
 
 - Seguir a alguien implica:
     - estar suscrito a sus Tweets como un Seguidor.
-    - sus actualizaciones aparecerán en tu Cronología.
+    - sus actualizaciones aparecerán en tu Timeline.
     - esa persona tiene permiso para enviarte Tweets privados, llamados mensajes directos
 
 ---
@@ -121,7 +128,7 @@
 
 ---
 
-# Mensajes Directos (DM)
+# Mensajes Directos
 
 - Mensajes privados entre quien lo envía y quien lo recibe.
 - Los Tweets se convierten en DMs cuando comienzan con **"d nombredeusuario"** para especificar para quién es el mensaje.
@@ -159,11 +166,48 @@
 ---
 
 # Linkedin
+
+<a href="http://www.linkedin.com" target="_blank">www.linkedin.com</a>
+
 ![linkedin](img/linkedin.png)
 
 ---
 
+# Linkedin Basics
+
+- Red Social Profesional
+- Currículum Vitae Profesional
+    - Estudios
+    - Experiencia
+    - Conocimientos
+    - Aptitudes
+- Red de Contactos Profesionales
+- Grupos de interés Profesional
+- Recomendaciones
+- Cazatalentos
+
+---
+
+# Linkedin
+
+- Diferentes vistas del perfil
+
+<img src="img/linkedin-profile.png" title="linkedin" />
+
+---
+
+# Resumen
+
+- CV
+- Búsqueda de empleo directo
+- ¿Tenéis un perfil?
+
+---
+
 # Facebook
+
+<a href="http://www.facebook.com" target="_blank">www.facebook.com</a>
+
 ![facebook](img/facebook.png)
 
 ---
@@ -173,10 +217,11 @@
 - Contenidos
 - Amigos
 - Muro
+- Páginas
 - Me gusta
 - Compartir
 - Privacidad
-- Aplicaciones
+- Otros
 
 <span class="tooltip">
     Fuente: <a href="http://www.facebook.com/help/basics" target="_blank"/>Facebook Support</a>
@@ -184,9 +229,15 @@
 
 ---
 
+# Facebook
+
+<img src="img/facebook-profile.png" title="facebook" />
+
+---
+
 # Contenidos
 
-- Son las **COSAS** que podemos utilizar: 
+- **Elementos** que podemos utilizar: 
     - Fotos
     - Vídeos
     - Enlaces
@@ -196,33 +247,50 @@
 
 # Amigos
 
-- Son los **DESTINATARIOS** de nuestras acciones:
+- **Destinatarios** de nuestras acciones:
     - Amigos individuales
     - Listas de amigos
 - Acciones que podemos hacer:
     - Enviar solicitudes de amistad
     - Añadir, Eliminar y Bloquear
-    - Etiquetado de amigos
+    - Etiquetado
 
 ---
 
 # Muro
 
-- Es **DONDE** podemos interactuar:
-    - Espacio para publicar y compartir con tus amigos.
-    - Compartir con un público amplio qué estás pensando: 
-        - Actualizar tu estado y compartir contenidos. 
-        - Publicaciones en tu perfil y también en la sección de noticias.
-    - Compartir con un pequeño grupo (familiares, tu equipo de fútbol o tu club de lectura)
-    - Compartir con un amigo.
-        - Los amigos de tu amigo también podrán ver tu publicación. 
-    - Compartir algo en privado: envía un mensaje privado. 
+- Espacio para publicar y compartir con tus amigos.
+- Compartir con un público amplio qué estás pensando: 
+    - Actualizar tu estado y compartir contenidos. 
+    - Publicaciones en tu perfil y también en la sección de noticias.
+- Compartir con un pequeño grupo (familiares, tu equipo de fútbol o tu club de lectura)
+- Compartir con un amigo.
+    - Los amigos de tu amigo también podrán ver tu publicación. 
+- Compartir algo en privado: **envía un mensaje privado** 
+
+---
+
+# Páginas
+
+- Ayudan a los negocios, organizaciones y marcas a compartir su historia y conectar con el público.
+- Si te gusta una página y quieres estar al tanto de sus actualizaciones y su actividad, haz clic en el botón "Me gusta". 
+- Para crear una página: <a href="http://www.facebook.com/pages/create.php" target="_blank">http://www.facebook.com/pages/create.php</a>
+
+<div style="padding-left: 50px;">
+    <img src="img/facebook-me-gusta.jpg" class="h100"/>
+</div>
 
 ---
 
 # Me gusta
 
-- Me gusta
+- Forma de hacer un comentario positivo
+- Mostrar las cosas que más te importan en Facebook
+- Forma simple de decirle a alguien que es de tu agrado, sin dejar un comentario
+- En una página de Facebook, anuncio o un contenido de Facebook:
+    - Establece una conexión.
+    - Aparecerá una historia en tu Muro y puede que en Noticias.
+- Ya no me gusta
 
 ---
 
@@ -248,21 +316,33 @@
 
 ---
 
-# Aplicaciones
+# Otros
 
+- Ofertas:
+    - Descuentos a clientes en una página de Facebook.
+    - Son como cupones y no cuesta nada crearlas.
 - Aplicaciones
+    - Mejorar la experiencia de usuario, 
+    - Funciones útiles: eventos y calendario
+    - Juegos Sociales. 
 
 ---
 
-# Caso de Éxito
+# Práctica
 
-- Mi caso de éxito
+- 5 negocios que nos interesen.
+    - ¿Tienen presencia en las redes sociales?
+- ¿Nos gustan para que podamos crear conexiones?
+- Buscar ofertas y/o cupones
 
 ---
 
 # Debate
 
 - ¿Cómo iniciaríamos nuestra estrategia de comunicación social?
+- ¿Qué ventajas e inconvenientes tiene cada red?
+- Formalidad Vs. Informalidad
+- Público Objetivo
 
 ---
 

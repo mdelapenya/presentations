@@ -5,6 +5,5 @@ do
 	# name without extension
     name=${file%\.*}
 	echo "[*] Creating slides for ${file}:"
-	echo "==================="
 	landslide "$file" --destination="$name".html
 done
