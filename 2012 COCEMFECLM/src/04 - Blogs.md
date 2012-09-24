@@ -100,9 +100,9 @@
 - Definen las acciones que podrán hacer los usuarios
 - Ejemplos:
 	- **Administrador**: control total sobre el blog
-	- **Redactor**: autoriza la publicación de los artículos
-	- **Editor**: envía los artículos, pero no puede publicarlos.
-
+	- **Editor**: autoriza la publicación de los artículos
+	- **Redactor**: envía los artículos, pero no puede publicarlos.
+	- **Visitante**: aquellos navegantes de nuestro sitio web/blog
 ---
 
 # Usuarios
