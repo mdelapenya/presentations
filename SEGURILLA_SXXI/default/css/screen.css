@@ -69,6 +69,8 @@ div.slide {
 
 div.slide p {
   font-size: 30px;
+  padding-top: 0;
+  -webkit-margin: 0;
 }
 
 .slide.far-past {
@@ -147,28 +149,20 @@ section img {
   height: 400px;
 }
 
-section .h100 {
-  height: 100px;
-}
+section .h100 {height: 100px;}
+section .h200 {height: 200px;}
+section .h300 {height: 300px;}
+section .h400 {height: 400px;}
+section .h500 {height: 500px;}
+section .h600 {height: 600px;}
 
-section .h200 {
-  height: 200px;
-}
-
-section .h300 {
-  height: 300px;
-}
-
-section .h400 {
-  height: 400px;
-}
-
-section .h500 {
-  height: 500px;
-}
+section .w25 {width: 25%;}
+section .w50 {width: 50%;}
+section .w75 {width: 75%;}
+section .w100 {width: 100%;}
 
 section .tooltip {
-  font-size: 0.7em;
+  font-size: 1em;
 }
 
 a {
@@ -187,6 +181,25 @@ pre {
 li {
   padding: 10px 10px;
   font-size: 30px;
+}
+
+li ul li {
+  padding: 10px 10px;
+  font-size: 25px;
+}
+
+div .table {
+  display: table;
+  font-size:1.5em;
+  width: 100%;
+}
+div .table div.left {
+  float: left;
+  text-align:left;
+}
+div .table div.right {
+  float: right;
+  text-align:center;
 }
 
 .slide header:only-child h1 {
