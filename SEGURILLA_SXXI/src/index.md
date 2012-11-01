@@ -261,7 +261,13 @@
 
 ---
 
-# Ejemplos y Comparativa
+# Ejemplos
+
+- ¿Cómo me afecta a mi?
+
+---
+
+# Ofimática
 
 - **Microsoft Office** 
 
@@ -269,7 +275,7 @@
 
 ---
 
-# Ejemplos y Comparativa
+# Ofimática
 
 - Microsoft Office -> **Libre Office**
 
@@ -277,7 +283,7 @@
 
 ---
 
-# Ejemplos y Comparativa
+# Navegadores
 
 - **Internet Explorer** 
 
@@ -285,7 +291,7 @@
 
 ---
 
-# Ejemplos y Comparativa
+# Navegadores
 
 - Internet Explorer -> **Google Chrome**, **Mozilla Firefox**, **Ópera**
 
@@ -293,7 +299,7 @@
 
 ---
 
-# Ejemplos y Comparativa
+# Retoque de imágenes 
 
 - **Photoshop**
 
@@ -301,7 +307,7 @@
 
 ---
 
-# Ejemplos y Comparativa
+# Retoque de imágenes
 
 - Photoshop -> **The Gimp**
 
@@ -309,7 +315,7 @@
 
 ---
 
-# Ejemplos y Comparativa
+# Movilidad
 
 - **Windows Phone, iOS**
 
@@ -324,7 +330,7 @@
 
 ---
 
-# Ejemplos y Comparativa
+# Movilidad
 
 - Windows Phone, iOS -> **Android**
 
@@ -339,7 +345,7 @@
 
 ---
 
-# Ejemplos y Comparativa
+# Sistemas Operativos
 
 - **MS Windows, MAC OSX**
 
@@ -347,7 +353,7 @@
 
 ---
 
-# Ejemplos y Comparativa
+# Sistemas Operativos
 
 - MS Windows, MAC OSX -> **GNU/Linux** 
 
