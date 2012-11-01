@@ -2,30 +2,6 @@
 
 ---
 
-# Agenda
-
-0. **About**
-1. Desarrollo sostenible y Tecnología
-2. Software Libre
-3. ¿Es todo tan bonito?
-4. Inconvenientes
-5. Ejemplos de Software Libre
-6. Open Source no es sólo software
-
----
-
-# About...
-
-<div style="display:table; margin-top: 25px; witdh: 100%;">
-	<div style="float:left; width:50%">
-		<img src="img/logo_segurilla_sXXI.png" title="Segurilla s.XXI" class="h300" />
-	</div>
-	<div style="float:right; width:50%">
-		<img src="img/liferay.png" title="Liferay" class="h100"/>
-	</div>
-</div>
----
-
 # About me
 
 - Manuel de la Peña
@@ -96,6 +72,19 @@
 # Desarrollo sostenible
 
 <img src="img/red_global_verde.png" title="Desarrollo Sostenible" class="h500" />
+
+---
+
+# Desarrollo sostenible
+
+- **Sostenibilidad económica**: la actividad es financieramente posible y rentable.
+
+---
+
+# Desarrollo sostenible
+
+- **Sostenibilidad económica**: la actividad es financieramente posible y rentable.
+- **Sostenibilidad social**: Se basa en la cohesión social y en la habilidad para trabajar en la persecución de objetivos comunes.
 
 ---
 
