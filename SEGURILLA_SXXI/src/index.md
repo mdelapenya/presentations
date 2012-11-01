@@ -60,17 +60,16 @@
 # Agenda
 
 0. About me
-1. Desarrollo sostenible y Tecnología
+1. Desarrollo sostenible
 2. Software Libre
 3. ¿Es todo tan bonito?
-4. Beneficios de utilizar Software Libre
-5. ¿Cómo me afecta a mí?
-6. Lo que habitualmente no sabemos
-7. Open Source no es sólo software
+4. ¿Cómo me afecta a mí?
+5. Sabías que...
+6. Open Source no es sólo software
 
 ---
 
-# Desarrollo sostenible
+# 1. Desarrollo sostenible
 
 <img src="img/red_global_verde.png" title="Desarrollo Sostenible" class="h500" />
 
@@ -97,7 +96,7 @@
 
 ---
 
-# Software Libre
+# 2. Software Libre
 
 <img src="img/software_libre.png" title="Software Libre" class="h500" />
 
@@ -235,7 +234,7 @@
 
 ---
 
-# ¿Es todo tan bonito?
+# 3. ¿Es todo tan bonito?
 
 <img src="img/interrogantes.png" title="Interrogantes" class="h500"/>
 
@@ -262,7 +261,7 @@
 
 ---
 
-# ¿Cómo me afecta a mí?
+# 4. ¿Cómo me afecta a mí?
 
 <img src="img/trabajantes.png" title="¿Cómo me afecta a mí?" class="h500"/>
 
@@ -362,7 +361,7 @@
 
 ---
 
-# Cifras que a menudo no sabemos
+# 5. ¿Sabías que...?
 
 <img src="img/3_monos.jpg" title="Cifras que normalmente no sabemos" class="h500" /> 
 
@@ -419,24 +418,21 @@
 
 # ¿Quién usa Software Libre?
 
-<img src="img/cuotas_browser.png" title="Cuotas de navegadores, desde 2008 hasta la actualidad" class="h500" />
+<img src="img/empresas.png" title="Empresas que usan Software Libre" class="h500" />
 
 ---
 
-# Tuenti
+# Tuenti (2009)
 
-- Millones de usuarios al día
-- 72 minutos/persona y día
-- 20.000 millones págs. vistas/mes
-- +20.000 págs./seg en pico
-- 2'5 millones de fotos nuevas/día
-- 2.500 millones de fotos servidas/día
+- Millones de usuarios al día (72 minutos/persona y día)
+- 20.000 millones págs. vistas/mes (+20.000/seg en pico)
+- 2.500 millones de fotos servidas/día (2'5 millones nuevas/día)
 
-<div class="tooltip">Fuente: Tuenti, 2009</div>
+<img src="img/logo_tuenti.png" title="Tuenti" class="h300" />
 
 ---
 
-# Opensource no es sólo software
+# 6. Opensource no es sólo software
 
 <img src="img/puertas_abiertas.jpg" title="Aún hay más" class="h500"/>
 
