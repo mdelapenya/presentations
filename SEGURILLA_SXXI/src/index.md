@@ -102,13 +102,34 @@
 
 ---
 
-# Software Libre
+# Las 4 Libertades
 
-- Las 4 libertades:
-	- **Libertad para usar** el programa para cualquier propósito y sin restricciones
-	- Libertad para estudiar cómo funciona el programa y **adaptarlo a tus necesidades**, para lo que es necesario disponer del código fuente.
-	- Libertad para **distribuir copias**.
-	- Libertad para **mejorar el programa** y distribuir copias.
+- **Libertad 0**: **Libertad para que uses** el programa para cualquier propósito y sin restricciones
+
+---
+
+# Las 4 Libertades
+
+- **Libertad 0**: **Libertad para que uses** el programa para cualquier propósito y sin restricciones
+- **Libertad 1**: Libertad para que estudies cómo funciona el programa y **adaptarlo a tus necesidades**, para lo que es necesario disponer del código fuente.
+
+---
+
+
+# Las 4 Libertades
+
+- **Libertad 0**: **Libertad para que uses** el programa para cualquier propósito y sin restricciones
+- **Libertad 1**: Libertad para que estudies cómo funciona el programa y **adaptarlo a tus necesidades**, para lo que es necesario disponer del código fuente.
+- **Libertad 2**: Libertad para **que distribuyas copias**.
+
+---
+
+# Las 4 Libertades
+
+- **Libertad 0**: **Libertad para que uses** el programa para cualquier propósito y sin restricciones
+- **Libertad 1**: Libertad para que estudies cómo funciona el programa y **adaptarlo a tus necesidades**, para lo que es necesario disponer del código fuente.
+- **Libertad 2**: Libertad para **que distribuyas copias**.
+- **Libertad 3**: Libertad para **que mejores el programa** y distribuyas copias.
 
 ---
 
@@ -117,7 +138,7 @@
 - **Independencia** del fabricante de software
 - **Ahorro** de costes
 - Mayor **seguridad y calidad** del software
-- Desarrollo del sector TIC **local**
+- **Desarrollo** del sector TIC **local**
 - Generación de valor en **comunidad**
 - **¡¡Ventajas objetivas!!**
 
