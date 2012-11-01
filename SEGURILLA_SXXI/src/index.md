@@ -416,11 +416,12 @@
 
 ---
 
-# Tuenti (2009)
+# Tuenti (2012)
 
-- Millones de usuarios al día (72 minutos/persona y día)
-- 20.000 millones págs. vistas/mes (+20.000/seg en pico)
-- 2.500 millones de fotos servidas/día (2'5 millones nuevas/día)
+- +13 Millones de usuarios (72 minutos/persona y día)
+- +30.000 millones págs. vistas/mes (+35.000/seg en pico)
+- +6 millones de fotos servidas/día (+3'5 millones nuevas/día)
+- +200 millones de mensajes de chat/día
 
 <img src="img/logo_tuenti.png" title="Tuenti" class="h300" />
 
