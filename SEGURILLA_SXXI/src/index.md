@@ -40,9 +40,9 @@
  
 - Central en Los Ángeles
 - Centro de Ingeniería en Madrid
-- +300 empleados
+- +350 empleados
 - Oficinas por todo el mundo
-    - **Europa**: Alemania, España, Hungría, República Checa, Croacia, Serbia, Inglaterra
+    - **Europa**: Alemania, España, Hungría, República Checa, Croacia, Serbia, Inglaterra, Francia, Holanda
     - **Asia**: China, India, Malasia
     - **América**: Estados Unidos, Brasil, Canadá
 
