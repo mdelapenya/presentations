@@ -448,6 +448,14 @@
 
 ---
 
+# Y muchos más...
+
+- Google, Yahoo, Disney, Dreamworks, Pixar, Amazon, Reuters, IBM, Garmin, Carrefour, Alcampo, Lufthansa...
+- El **65% de los sitios web** corren en servidores Linux
+- El **85% del top 100 de supercomputadores** del mundo
+
+---
+
 # 6. Opensource no es sólo software
 
 <img src="img/puertas_abiertas.jpg" title="Aún hay más" class="h500"/>
@@ -467,7 +475,11 @@
 
 # Arduino
 
-<iframe width="100%" height="80%" src="http://www.youtube.com/embed/UoBUXOOdLXY" frameborder="0" allowfullscreen></iframe>
+<iframe width="100%" height="75%" src="http://www.youtube.com/embed/UoBUXOOdLXY" frameborder="0" allowfullscreen></iframe>
+
+<div class="tooltip">Minuto 6:40 - 7:15</div>
+<div class="tooltip">Minuto 8:40 - 9:14</div>
+<div class="tooltip">Minuto 9:36 - 10:26</div>
 
 ---
 
@@ -523,7 +535,8 @@
 
 # ... más conclusiones
 
-- Es un **principio global**, la unión hace la fuerza: si los usuarios pueden leer, modificar y redistribuir el código fuente de un programa, éste va a evolucionar, va a desarrollarse y va a mejorar a una velocidad vertiginosa.
+- Es un **principio global**, la unión hace la fuerza:
+	- si los usuarios pueden leer, modificar y redistribuir el código fuente de un programa, éste va a evolucionar, va a desarrollarse y va a mejorar a una velocidad vertiginosa.
 - Los códigos públicos permiten adaptarnos a ellos, **sin dependencias** de grandes empresas que en algún momento dado puedan modificarlos y/o retirarlos del mercado, dejándonos **fuera de juego**.
 
 ---
@@ -535,10 +548,13 @@
 	- Electrodomésticos
 	- Aviación
 	- Radares
+	- Agricultura
+	- Ingeniería
+	- ...
 
 ---
 
-# Enlaces de interés
+# Recursos de interés
 
 - Cenatic (**http://www.cenatic.es**)
 	- http://www.cenatic.es/publicaciones/divulgativas
@@ -546,7 +562,8 @@
 	- http://www.cidetys.org.pa/images/files/Catalogo%20Software.pdf
 - Bilib (**www.bilib.es**)
 	- Análisis de aplicaciones
-	- Formación Online: **http://formados.bilib.es/**
+	- Formación Online: **http://formados.bilib.es**
+- Open Source Ecology (**http://opensourceecology.org**)
 
 ---
 
