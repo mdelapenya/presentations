@@ -510,6 +510,10 @@
 
 - Cenatic
 	- http://www.cenatic.es/publicaciones/divulgativas
+- Catálogo de Software Libre Educativo
+	- http://www.cidetys.org.pa/images/files/Catalogo%20Software.pdf
+- Cursos
+	- http://formados.bilib.es/
 
 ---
 
