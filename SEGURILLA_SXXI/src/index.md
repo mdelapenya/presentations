@@ -247,7 +247,7 @@
 
 ---
 
-# Ejemplos de Software Libre
+# Ejemplos y Comparativa
 
 - **Microsoft Office** 
 
@@ -255,7 +255,7 @@
 
 ---
 
-# Ejemplos de Software Libre
+# Ejemplos y Comparativa
 
 - Microsoft Office -> **Libre Office**
 
@@ -263,28 +263,40 @@
 
 ---
 
-# Ejemplos de Software Libre
+# Ejemplos y Comparativa
 
-- Microsoft Office -> Libre Office
+- **Internet Explorer** 
+
+<img src="img/iexplorer.png" title="Internet Explorer" class="h300" />
+
+---
+
+# Ejemplos y Comparativa
+
+- Internet Explorer -> **Google Chrome**, **Mozilla Firefox**, **Ópera**
+
+<img src="img/chrome-mozilla-opera.png" title="Google Chrome, Mozilla Firefox, Ópera" class="h300" />
+
+---
+
+# Ejemplos y Comparativa
+
 - **Photoshop**
 
 <img src="img/photoshop.png" title="Photoshop" class="h300" />
 
 ---
 
-# Ejemplos de Software Libre
+# Ejemplos y Comparativa
 
-- Microsoft Office -> Libre Office
 - Photoshop -> **The Gimp**
 
 <img src="img/gimp.png" title="The Gimp" class="h300" />
 
 ---
 
-# Ejemplos de Software Libre
+# Ejemplos y Comparativa
 
-- Microsoft Office -> Libre Office
-- Photoshop -> The Gimp
 - **Windows Phone, iOS**
 
 <div class="table">
@@ -298,10 +310,8 @@
 
 ---
 
-# Ejemplos de Software Libre
+# Ejemplos y Comparativa
 
-- Libre Office -> Microsoft Office
-- The Gimp -> Photoshop
 - Windows Phone, iOS -> **Android**
 
 <div class="table">
@@ -313,28 +323,76 @@
 	</div>
 </div>
 
-
 ---
 
-# Ejemplos de Software Libre
+# Ejemplos y Comparativa
 
-- Libre Office -> Microsoft Office
-- The Gimp -> Photoshop
-- Android -> Windows Phone, iOS
 - **MS Windows, MAC OSX**
 
 <img src="img/so.png" title="Windows, MAC OSX" class="h300" />
 
 ---
 
-# Ejemplos de Software Libre
+# Ejemplos y Comparativa
 
-- Libre Office -> Microsoft Office
-- The Gimp -> Photoshop
-- Android -> Windows Phone, iOS
 - MS Windows, MAC OSX -> **GNU/Linux** 
 
 <img src="img/gnu_linux.png" title="Linux: Ubuntu, Kubuntu, Mint, Molinux, Linex, Debian, Suse, Red Hat" class="h300" />
+
+---
+
+# Lo que a menudo no sabemos
+
+<img src="img/3_monos.jpg" title="Lo que la gente no sabes" class="h500" /> 
+
+---
+
+# Windows XP
+
+- Lanzado al mercado el 25 de octubre de 2001
+- En agosto de 2012: **46'33% de cuota de mercado**
+- Home Edition Castellano CD Microsoft: **236,73€**
+- Office XP Win32 Castellano: **418,94€**
+
+---
+
+# Windows 7
+
+- Lanzado al mercado el 22 de octubre de 2009
+- En agosto de 2012: **46,60% de cuota de mercado**
+- Windows 7 Home Premium: **$119.99** / **$199.99**
+- Windows 7 Professional: **$199.99** / **$299.99**
+- Windows 7 Ultimate: **$219.99** / **$319.99**
+
+<div class="tooltip">Fuente (2009): http://www.genbeta.com/windows/el-precio-de-windows-7</div>
+
+---
+
+# Windows 8 Pro
+
+- Lanzado al mercado el 26 de octubre de 2012
+- **29'99€** hasta diciembre de 2012, luego **59'99€**.
+- Disponer del S.O. Windows XP SP3, Windows Vista o Windows 7.
+
+---
+
+# Comprando un portátil
+
+- **Notebook:** Entre 600€ y 800€. Los notebooks más básicos pueden encontrarse a partir de 400€.
+- **Netbook:** Entre 250€ y 400€.
+- **Ultrabook:** Entre 800€ y 1.000€.
+
+---
+
+# Cuotas de Sistemas Operativos
+
+<img src="img/cuotas_so.png" title="Cuotas de sistemas Operativos, desde 2008 hasta la actualidad" class="h500" />
+
+---
+
+# Cuotas de Navegadores
+
+<img src="img/cuotas_browser.png" title="Cuotas de navegadores, desde 2008 hasta la actualidad" class="h500" />
 
 ---
 
@@ -350,6 +408,7 @@
 	- **Arduino**
 	- **Raspberry Pi**
 - GVCS: Maquinaria Open Source
+- Open Energy Monitor
 - **y cada vez más!!**
 
 ---
@@ -357,12 +416,6 @@
 # Arduino
 
 <iframe width="100%" height="80%" src="http://www.youtube.com/embed/UoBUXOOdLXY" frameborder="0" allowfullscreen></iframe>
-
----
-
-# Global Village Construction Set
-
-<iframe width="100%" height="80%" src="http://opensourceecology.org/gvcs.php" frameborder="0" allowfullscreen></iframe>
 
 ---
 
@@ -378,9 +431,30 @@
 		<img src="img/raspberry_pi.jpeg" title="¡¡Sólo cuesta 25/35 dólares!!!" class="h200" />
 	</div>
 	<div class="right">
-		<img src="img/raspi_iso_blue.png" title="Raspberry Pi" class="h300" /> 
+		<img src="img/raspi_iso_blue.png" title="Raspberry Pi" class="h300" />
 	</div>
 </div>
+
+---
+
+# Global Village Construction Set
+
+<iframe width="100%" height="80%" src="http://opensourceecology.org/gvcs.php" frameborder="0" allowfullscreen></iframe>
+
+---
+
+# Global Village Construction Set
+
+<iframe width="100%" height="80%"src="http://www.youtube.com/embed/CD1EWGQDUTQ" frameborder="0" allowfullscreen></iframe>
+
+---
+
+# Open Energy Monitor
+
+- Herramientas de **monitorización de la energía**
+- Ayudarnos a mejorar nuestro **uso de la energía**, de nuestros **sistemas de energía** y el reto de una **energía sostenible**.
+
+<img src="img/arduino_energy_monitor.jpg" title="Arduino Open Energy Monitor" class="h300" /> 
 
 ---
 
@@ -419,6 +493,18 @@
 
 ---
 
+# ¿Preguntas, Dudas, Sugerencias?
+
+<img src="img/question.png" title="¿Preguntas, dudas o sugerencias?" class="h500" />
+
+---
+
+# ¡¡Muchas Gracias!!
+
+<img src="img/gracias.png" title="¡¡Muchas gracias!!" class="h600" />
+
+---
+
 # Imágenes
 
 		- Red global verde: http://es.fotolia.com/id/28659625
@@ -432,16 +518,7 @@
 		- Interrogantes: http://es.fotolia.com/id/37148107
 		- CD's: http://es.fotolia.com/id/20037990
 		- Business Ethics: http://es.fotolia.com/id/41066691
+		- Open Energy Monitor: http://www.embedds.com/wp-content/uploads/2011/02/arduino_energy_monitor.jpg
 		- Puertas Abiertas: http://es.fotolia.com/id/36773330
-
----
-
-# ¡¡Muchas Gracias!!
-
-<img src="img/gracias.png" title="¡¡Muchas gracias!!" class="h600" />
-
----
-
-# ¿Preguntas, Dudas, Sugerencias?
-
-<img src="img/question.png" title="¿Preguntas, dudas o sugerencias?" class="h500" />
+		- Monos: http://es.fotolia.com/id/41900262
+		- Question: http://es.fotolia.com/id/32018424
