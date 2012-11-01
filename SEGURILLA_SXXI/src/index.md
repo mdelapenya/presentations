@@ -381,9 +381,9 @@
 
 - Lanzado al mercado el 22 de octubre de 2009
 - En agosto de 2012: **46,60% de cuota de mercado**
-- Windows 7 Home Premium: **$119.99** / **$199.99**
-- Windows 7 Professional: **$199.99** / **$299.99**
-- Windows 7 Ultimate: **$219.99** / **$319.99**
+- Windows 7 Home Premium: **$119,99** / **$199,99**
+- Windows 7 Professional: **$199,99** / **$299,99**
+- Windows 7 Ultimate: **$219,99** / **$319,99**
 
 <div class="tooltip">Fuente (2009): http://www.genbeta.com/windows/el-precio-de-windows-7</div>
 
