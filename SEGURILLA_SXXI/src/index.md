@@ -518,12 +518,13 @@
 
 # Enlaces de interés
 
-- Cenatic
+- Cenatic (**http://www.cenatic.es**)
 	- http://www.cenatic.es/publicaciones/divulgativas
 - Catálogo de Software Libre Educativo
 	- http://www.cidetys.org.pa/images/files/Catalogo%20Software.pdf
-- Cursos
-	- http://formados.bilib.es/
+- Bilib (**www.bilib.es**)
+	- Análisis de aplicaciones
+	- Formación Online: **http://formados.bilib.es/**
 
 ---
 
