@@ -59,7 +59,6 @@
 
 # Agenda
 
-0. About me
 1. Desarrollo sostenible
 2. Software Libre
 3. ¿Es todo tan bonito?
@@ -97,6 +96,19 @@
 ---
 
 # 2. Software Libre
+
+<img src="img/we-are-open.jpg" title="Software Libre" class="h500" />
+
+
+---
+
+# Free NO significa Gratis
+
+<img src="img/fiesta_cerveza.jpg" title="Free significa Libre, no gratis" class="h500" />
+
+---
+
+# Free significa Libre
 
 <img src="img/software_libre.png" title="Software Libre" class="h500" />
 
@@ -412,7 +424,7 @@
 
 # ¿Quién usa Software Libre?
 
-<img src="img/empresas.png" title="Empresas que usan Software Libre" class="h500" />
+<img src="img/agency.png" title="Empresas que usan Software Libre" class="h500" />
 
 ---
 
@@ -423,7 +435,7 @@
 - +6 millones de fotos servidas/día (+3'5 millones nuevas/día)
 - +200 millones de mensajes de chat/día
 
-<img src="img/logo_tuenti.png" title="Tuenti" class="h300" />
+<img src="img/logo_tuenti.png" title="Tuenti" class="h250" />
 
 ---
 
