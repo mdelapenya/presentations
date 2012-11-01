@@ -218,8 +218,8 @@
 # Sostenibilidad social
 
 - Compartición y reutilización aplicaciones
-- El sector tecnológico colabora con los desarrolladores
-- **Configura y es configurado por la sociedad**
+- Ética en el uso de las TIC
+- Disminución de la brecha digital, y derecho de los ciudadanos a tener control sobre su informática
 
 <img src="img/ethics.png" title="Basada en el mantenimiento de la cohesión social y de su habilidad para trabajar en la persecución de objetivos comunes." class="h300"/>
 
@@ -264,7 +264,7 @@
 
 # ¿Cómo me afecta a mí?
 
-<img src="img/trabajantes.jpg" title="¿Cómo me afecta a mí?" class="h500"/>
+<img src="img/trabajantes.png" title="¿Cómo me afecta a mí?" class="h500"/>
 
 ---
 
