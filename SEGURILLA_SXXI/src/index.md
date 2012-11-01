@@ -140,7 +140,6 @@
 - Mayor **seguridad y calidad** del software
 - **Desarrollo** del sector TIC **local**
 - Generación de valor en **comunidad**
-- **¡¡Ventajas objetivas!!**
 
 <div class="tooltip">Elemento clave en la mejora de los S.I. de empresas y AA.PP. Recomendado por la UE mediante varias normativas en últimos años.</div>
 
@@ -193,6 +192,12 @@
 
 ---
 
+# ¿Ventajas Objetivas?
+
+- **¡¡Ventajas objetivas!!**
+
+---
+
 # Poniendo todo junto...
 
 <img src="img/hormigonera.png" title="Sostenibilidad + Software Libre" class="h600"/>
@@ -211,10 +216,11 @@
 
 # Sostenibilidad social
 
-- Compartición y reutilización de aplicaciones
-- Colaboración entre sector tecnológico y desarrolladores
+- Compartición y reutilización aplicaciones
+- El sector tecnológico colabora con los desarrolladores
+- **Configura y es configurado por la sociedad**
 
-<img src="img/ethics.png" title="Basada en el mantenimiento de la cohesión social y de su habilidad para trabajar en la persecución de objetivos comunes." class="h400"/>
+<img src="img/ethics.png" title="Basada en el mantenimiento de la cohesión social y de su habilidad para trabajar en la persecución de objetivos comunes." class="h300"/>
 
 ---
 
@@ -223,8 +229,6 @@
 - Tiene una menor necesidad de hardware:
 	- Equipos más baratos
 	- Vida útil mayor.
-- Aumenta la diversidad de productos al alcance del usuario
-	- Aumenta la oferta.
 
 <img src="img/huella_ecologica.png" title="Compatibilidad entre la actividad considerada y la preservación de la biodiversidad y de los ecosistemas, evitando la degradación de las funciones fuente y sumidero" class="h300"/>
 
