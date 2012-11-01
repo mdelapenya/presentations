@@ -192,12 +192,6 @@
 
 ---
 
-# ¿Ventajas Objetivas?
-
-- **¡¡Ventajas objetivas!!**
-
----
-
 # Poniendo todo junto...
 
 <img src="img/hormigonera.png" title="Sostenibilidad + Software Libre" class="h600"/>
