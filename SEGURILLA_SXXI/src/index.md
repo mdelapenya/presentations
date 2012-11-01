@@ -439,6 +439,15 @@
 
 ---
 
+# Toyota
+
+- Miembro de Oro de la **Fundación Linux** desde julio de 2011
+- <span style="font-style:italic">"Linux nos proporciona la **flexibilidad y la madurez tecnológica** que requerimos para desarrollarnos en nuestros vehículos, sus sistemas de información, comunicación y entretenimiento para hacer frente a las expectativas de nuestros clientes“</span>
+
+<img src="img/logo_toyota.png" title="Toyota" class="h250" />
+
+---
+
 # 6. Opensource no es sólo software
 
 <img src="img/puertas_abiertas.jpg" title="Aún hay más" class="h500"/>
