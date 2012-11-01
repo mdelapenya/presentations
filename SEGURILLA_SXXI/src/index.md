@@ -64,8 +64,9 @@
 2. Software Libre
 3. ¿Es todo tan bonito?
 4. Beneficios de utilizar Software Libre
-5. Ejemplos de Software Libre
-6. Open Source no es sólo software
+5. ¿Cómo me afecta a mí?
+6. Lo que habitualmente no sabemos
+7. Open Source no es sólo software
 
 ---
 
@@ -261,9 +262,9 @@
 
 ---
 
-# Ejemplos
+# ¿Cómo me afecta a mí?
 
-- ¿Cómo me afecta a mi?
+<img src="img/trabajantes.jpg" title="¿Cómo me afecta a mí?" class="h500"/>
 
 ---
 
@@ -361,9 +362,9 @@
 
 ---
 
-# Lo que a menudo no sabemos
+# Cifras que a menudo no sabemos
 
-<img src="img/3_monos.jpg" title="Lo que la gente no sabes" class="h500" /> 
+<img src="img/3_monos.jpg" title="Cifras que normalmente no sabemos" class="h500" /> 
 
 ---
 
@@ -413,6 +414,25 @@
 # Cuotas de Navegadores
 
 <img src="img/cuotas_browser.png" title="Cuotas de navegadores, desde 2008 hasta la actualidad" class="h500" />
+
+---
+
+# ¿Quién usa Software Libre?
+
+<img src="img/cuotas_browser.png" title="Cuotas de navegadores, desde 2008 hasta la actualidad" class="h500" />
+
+---
+
+# Tuenti
+
+- Millones de usuarios al día
+- 72 minutos/persona y día
+- 20.000 millones págs. vistas/mes
+- +20.000 págs./seg en pico
+- 2'5 millones de fotos nuevas/día
+- 2.500 millones de fotos servidas/día
+
+<div class="tooltip">Fuente: Tuenti, 2009</div>
 
 ---
 
@@ -544,5 +564,6 @@
 		- Business Ethics: http://es.fotolia.com/id/41066691
 		- Open Energy Monitor: http://www.embedds.com/wp-content/uploads/2011/02/arduino_energy_monitor.jpg
 		- Puertas Abiertas: http://es.fotolia.com/id/36773330
+		. Trabajadores: http://es.fotolia.com/id/44361348
 		- Monos: http://es.fotolia.com/id/41900262
 		- Question: http://es.fotolia.com/id/32018424
