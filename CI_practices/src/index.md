@@ -15,7 +15,16 @@
 # Continuous Integration
  
 - CI is a practice, not a tool, and requires a significant degree of discipline from the team as a whole.
-- The objective of our CI system is to ensure that our software is working, in essence, all of the time.
+
+![Discipline](img/chinese_army.jpg)
+
+---
+
+# Continuous Integration
+
+- The objective of our CI system is to ensure that our software is **working, in essence, all of the time**.
+
+![Target](img/target.png)
 
 ---
 
