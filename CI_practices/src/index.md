@@ -30,30 +30,57 @@
 
 # Practice 1
 
-**Don't check in on a broken build**
+## Don't check-in on a broken build
+
+![Don't check-in on a roken build](img/do-not-touch.png)
 
 ---
 
 # Don't check in on a broken build
 
-- If developers responsible are waiting to fix it, then...
-	- They identify the cause of the breakage as soon as possible and fix it.
-	- Best position to work out what caused the breakage and fix it inmediately.
+- If responsible developers are waiting to fix it, then...
+	- They identify the cause of the breakage **as soon as possible** and fix it.
+	- **Best position to work out** what caused the breakage and fix it inmediately.
 
 ---
 
 # Don't check in on a broken build
 
-- We don't want you to check-in further changes in a broken build. Why?
-	- It will compound the failure with more problems
-	- It takes much long for the build to be fixed.
-	- If we get used to seeing the build broken: Build stays broken all the time
+- We don't want you to check-in further changes in a broken build. **Why??**
+
+![Why?](img/why.png)
 
 ---
 
 # Don't check in on a broken build
 
-- The long term broken build is usually fixed by an Herculean effort of somebody on the team (Miguel), and the process starts again
+- It will compound the failure with more problems.
+
+![Bricks](img/bricks.png)
+
+---
+
+# Don't check in on a broken build
+
+- It takes much long for the build to be fixed.
+
+![Complexity](img/complexity.png)
+
+---
+
+# Don't check in on a broken build
+
+- If we get used to seeing the build broken: Build stays broken all the time.
+
+![Ignore](img/ignore.jpg)
+
+---
+
+# Don't check in on a broken build
+
+- The long term broken build is usually fixed by an Herculean effort of somebody on the team (**Miguel**), and the process starts again.
+
+![Herculean Task](img/herculean-task.jpg)
 
 ---
 
