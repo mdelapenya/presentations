@@ -8,7 +8,19 @@
 - Software engineer en Liferay, Inc.
 - Ingeniero Técnico Informático
 - Apasionado de las tecnologías
+- Aficionado al Social Media
 - Twitter: **@mdelapenya**
+
+---
+
+# About Liferay
+
+<img src="img/liferay.png" title="Liferay" class="h100"/>
+
+- Liferay Portal: plataforma para gestión de portales.
+- **Enterprise**
+- **Open Source**
+- **For Life**
 
 ---
 
@@ -16,8 +28,7 @@
  
 - Central en Los Ángeles
 - Centro de Ingeniería en Madrid
-- +350 empleados
-- Oficinas por todo el mundo
+- +350 empleados en todo el mundo
     - **Europa**: Alemania, España, Hungría, República Checa, Croacia, Serbia, Inglaterra, Francia, Holanda
     - **Asia**: China, India, Malasia
     - **América**: Estados Unidos, Brasil, Canadá
@@ -29,21 +40,26 @@
 - Estructura organizativa socialmente concienciada
 - Un mundo mejor es posible
 - **Liferay Foundation** y EVP
-    - Ayuda en la reconstrucción de casas por el terremoto de Haiti
+    - Ayuda en la reconstrucción de casas por el terremoto de Haiti (2010)
     - Construcción de casas para familias pobres en Rojo Gomez (México)
-    - Ayuda durante el desastre del huracán Katrina
+    - Ayuda durante el desastre del huracán Katrina (2005 y Sandy (2012)
     - **Promoción del autoempleo TIC a mujeres con discapacidad en Toledo**
  - **ROG** (Return of Giving) mejor que ROI
 
 ---
 
-# About Liferay
+# About Segurilla s.XXI
 
-<img src="img/liferay.png" title="Liferay" class="h100"/>
-
-- **Enterprise**
-- **Open Source**
-- **For Life**
+- Múltiples actividades locales:
+	- Cine-Forum
+	- Concursos de dibujo para niños
+	- Rutas por el pueblo y el entorno de Segurilla
+	- Cine de verano
+	- Charlas de interés común
+	- Parranda Castellana
+	- Jornadas de convivencia y visitas culturales (Sevilleja, etc).
+	- Recopilación de canciones populares de Segurilla (en conjunto con otros colectivos.
+	- ...
 
 ---
 
@@ -54,6 +70,13 @@
 - Promover y fomentar la conciencia **comunitaria**.
 - Promover y participar en campañas de **solidaridad** y ayuda hacia los sectores más desfavorecidos.
 - Reivindicar el derecho de tod@s l@s ciudadan@s de participar activamente en la creación y consecución de una **sociedad igualitaria**.
+
+---
+
+# About Segurilla s.XXI
+
+- http://segurillasiglo21.blogspot.com
+- https://www.facebook.com/groups/393652567324885 
 
 ---
 
@@ -99,7 +122,6 @@
 
 <img src="img/we-are-open.jpg" title="Software Libre" class="h500" />
 
-
 ---
 
 # Free NO significa Gratis
@@ -111,28 +133,6 @@
 # Free significa Libre
 
 <img src="img/software_libre.png" title="Software Libre" class="h500" />
-
----
-
-# Las 4 Libertades
-
-- **Libertad 0**: **Libertad para que uses** el programa para cualquier propósito y sin restricciones
-
----
-
-# Las 4 Libertades
-
-- **Libertad 0**: **Libertad para que uses** el programa para cualquier propósito y sin restricciones
-- **Libertad 1**: Libertad para que estudies cómo funciona el programa y **adaptarlo a tus necesidades**, para lo que es necesario disponer del código fuente.
-
----
-
-
-# Las 4 Libertades
-
-- **Libertad 0**: **Libertad para que uses** el programa para cualquier propósito y sin restricciones
-- **Libertad 1**: Libertad para que estudies cómo funciona el programa y **adaptarlo a tus necesidades**, para lo que es necesario disponer del código fuente.
-- **Libertad 2**: Libertad para **que distribuyas copias**.
 
 ---
 
