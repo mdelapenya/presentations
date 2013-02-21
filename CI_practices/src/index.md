@@ -19,20 +19,9 @@
 
 ---
 
-
-# About Liferay
-
-<img src="img/liferay.png" title="Liferay" class="h100"/>
-
-- **Enterprise**
-- **Open Source**
-- **For Life**
-
----
-
 # Practice 1
 
-- **Don't check in on a broken build**
+**Don't check in on a broken build**
 
 ---
 
@@ -159,7 +148,7 @@ Not only mantain the build but also policed it, ensuring that whoever broke the 
 
 # Reverting to previous revision
 
-**Airplane pilots** assume that something will go wrong, so they shluod be ready to abort the landind attemp, and "go around" to make another try.
+**Airplane pilots** assume that something will go wrong, so they should be ready to abort the landing attemp, and "go around" to make another try.
 
 ---
 
