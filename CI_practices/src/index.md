@@ -207,7 +207,11 @@
 
 ---
 
-# Always be prepared to Revert to previous revision
+# Be prepared to Revert
+
+<div style="display: table; width: 100%; height: 550px; text-align: center">
+	<img title="Always be prepared to Revert to previous revision" src="img/ready-set.jpg" style="height: 550px"/>
+</div>
 
 ---
 
@@ -216,13 +220,15 @@
 - We all make mistakes, so everyone will break the build from time to time.
 - **Important!!** Get everything working again quickly.
 	- If you can't fix the problem quickly, for whatever reason, you should revert to the previous change-set held in the version control and remedy it locally.
-- You know that the previous version was good because **you don't check-in on a broken build**.
+- You know that the previous version was good because **you don't check-in on a broken build!!!**
 
 ---
 
 # Reverting to previous revision
 
-**Airplane pilots** assume that something will go wrong, so they should be ready to abort the landing attemp, and "go around" to make another try.
+<div style="display: table; width: 100%; height: 550px; text-align: center">
+	<img title="Airplane pilots assume that something will go wrong, so they should be ready to abort the landing attemp, and 'go around' to make another try" src="img/airplane-landing.jpg" style="height: 550px"/>
+</div>
 
 ---
 
