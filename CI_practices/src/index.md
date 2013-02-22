@@ -137,6 +137,12 @@
 
 - The CI is a **shared resource** for the team.
 - Developer who made the check-in is **responsible for monitoring the build's progress** (No lunch, no meetings)
+![Monitoring the build](img/finding-bugs.png)
+
+---
+
+# Wait for Commit Tests to Pass
+
 - Aim: To find error and eliminate them ASAP, **without expecting perfection and zero errors**.
 - Build breakages are a normal and expected part of the process.
 
