@@ -238,12 +238,12 @@
 
 # Time-Box fixing before reverting
 
----
+- Establish a rule: when the build breaks on check-in, try to fix it for **10 minutes**.
+- If, after that, you aren't finished, **revert** to the previous version.
 
-# Time-Box fixing before reverting
-
-- Establish a rule: when the build breaks on check-in, try to fix it for 10 minutes.
-- If, after that, you aren't finished, revert to the previous version.
+<div style="display: table; width: 100%; height: 300px; text-align: center">
+	<img title="Time-box fixing before reverting" src="img/countdown.gif" style="height: 300px"/>
+</div>
 
 ---
 
