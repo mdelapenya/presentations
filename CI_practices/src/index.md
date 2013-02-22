@@ -118,15 +118,17 @@
 
 # Practice 3
 
-**Wait for Commit Tests to Pass before moving on**
+## Wait for Commit Tests to Pass before moving on
+
+![Thinking, please be patient](img/thinking-please-be-patient.jpg)
 
 ---
 
 # Wait for Commit Tests to Pass
 
-- The CI is a shared resource for the team
-- Developer who made the check-in is responsible for monitoring the build's progress (No lunch, no meetings)
-- Aim: to find error and eliminate them as quickly as possible, without expecting perfection and zero errors.
+- The CI is a **shared resource** for the team.
+- Developer who made the check-in is **responsible for monitoring the build's progress** (No lunch, no meetings)
+- Aim: To find error and eliminate them ASAP, **without expecting perfection and zero errors**.
 - Build breakages are a normal and expected part of the process.
 
 ---
