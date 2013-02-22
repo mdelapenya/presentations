@@ -86,9 +86,9 @@
 
 # Practice 2
 
-**Always run all commits tests locally before committing**
+## Always run all commits tests locally before committing
 
-...or use the CI server
+![Use your tools](img/tools.png)
 
 ---
 
@@ -96,7 +96,7 @@
 
 - A commit triggers the creation of a release candidate
 - It is a way to ensure that what we believe to work actually does.
-- What happend if someone checks in before your last update and the combination cause tests to fail?
+- What happens if someone checks in before your last update and the combination cause tests to fail?
 
 ---
 
@@ -105,7 +105,14 @@
 - Before commiting:
 	1. Refresh local copy of the project
 	2. Initiate a local build and run the commit tests.
-	3. Only when the build is successful is the developer ready to commit the changes
+	3. Only when the build is successful is the developer ready to commit the changes.
+
+---
+
+# ...or send a pull request!!
+
+<img src="img/github-logo.png" style="width: 50%; height: 30%;" title="Github"/>
+<img src="img/jenkins-logo.png" style="width: 60%; height: 30%;" title="Jenkins"/>
 
 ---
 
