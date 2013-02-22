@@ -275,11 +275,18 @@
 
 ---
 
-# Take responsability for all breakages that result from your changes
+# Responsability for your breakages
+
+<div style="display: table; width: 100%; height: 550px; text-align: center">
+	<img title="Don't Comment out Failing Tests" src="img/responsibility.jpg" style="height: 550px"/>
+</div>
+
 
 ---
 
-# Responsability from breakages
+# Responsability for your breakages
+
+## Take responsability for all breakages that result from your changes
 
 - If you commit a change and all the tests you wrote pass, but others break, the build is still broken
 	- It's usually a Regression
