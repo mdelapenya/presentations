@@ -30,7 +30,9 @@
 
 # Practice 1
 
-## Don't check-in on a broken build
+---
+
+# Don't check-in on a broken build
 
 ![Don't check-in on a roken build](img/do-not-touch.png)
 
@@ -86,16 +88,12 @@
 
 # Practice 2
 
-## Always run all commits tests locally before committing
-
-![Use your tools](img/tools.png)
-
 ---
 
 # Always run test locally
 
-- A commit triggers the creation of a release candidate
-- It is a way to ensure that what we believe to work actually does.
+- A commit triggers the creation of a **release candidate**.
+- It is a way to ensure that **what we believe to work actually does**.
 - What happens if someone checks in before your last update and the combination cause tests to fail?
 
 ---
@@ -109,6 +107,15 @@
 
 ---
 
+# Always run tests locally
+
+- Many tools to run test in a local machine:
+	- ant test-integration, ant test-unit, ant test-class
+
+![Use your tools](img/tools.png)
+
+---
+
 # ...or send a pull request!!
 
 <img src="img/github-logo.png" style="width: 50%; height: 30%;" title="Github"/>
@@ -118,7 +125,9 @@
 
 # Practice 3
 
-## Wait for Commit Tests to Pass before moving on
+---
+
+# Wait for Commit Tests to Pass
 
 ![Thinking, please be patient](img/thinking-please-be-patient.jpg)
 
@@ -135,7 +144,9 @@
 
 # Practice 4
 
-**Never go home on a broken build**
+---
+
+# Never go home on a broken build
 
 ---
 
@@ -178,7 +189,9 @@ Not only mantain the build but also policed it, ensuring that whoever broke the 
 
 # Practice 5
 
-**Always be prepared to Revert to previous revision**
+---
+
+# Always be prepared to Revert to previous revision
 
 ---
 
@@ -199,7 +212,9 @@ Not only mantain the build but also policed it, ensuring that whoever broke the 
 
 # Practice 6
 
-**Time-Box fixing before reverting**
+---
+
+# Time-Box fixing before reverting
 
 ---
 
@@ -212,7 +227,9 @@ Not only mantain the build but also policed it, ensuring that whoever broke the 
 
 # Practice 7
 
-**Don't Comment out Failing Tests**
+---
+
+# Don't Comment out Failing Tests
 
 ---
 
@@ -230,7 +247,9 @@ Not only mantain the build but also policed it, ensuring that whoever broke the 
 
 # Practice 8
 
-**Take responsability for all breakages that result from your changes**
+---
+
+# Take responsability for all breakages that result from your changes
 
 ---
 
@@ -245,7 +264,9 @@ Not only mantain the build but also policed it, ensuring that whoever broke the 
 
 # Practice 9
 
-**Test-Driven Development**
+---
+
+# Test-Driven Development
 
 ---
 
