@@ -154,6 +154,8 @@
 
 # Never go home on a broken build
 
+<img src="img/iron-man.png" style="width:100%" />
+
 ---
 
 # Never go home on a broken build
@@ -175,21 +177,29 @@
 # Discipline on Distributed projects
 
 - Constant stream of changes committed to the version control system and a constant stream of new builds being triggered
+<img src="img/mapamundi.png" style="width:100%" />
 
 ---
 
-# Discipline and Distribution
+# Discipline on Distributed projects
 
 - If China breaks the build... then Europe day's work is dramatically affected
 - If Europe goes home on a broken build... America would be screaming and crying.
+<img src="img/crying.png" />
+---
+
+# Discipline on Distributed projects
+
+<div style="display: table; width: 100%; height: 550px; padding-left: 27%">
+	<img src="img/templario.png" style="height: 100%"/>
+</div>
 
 ---
 
-# Discipline and Distribution
+# Build Master
 
-**Build Master**
-
-Not only mantain the build but also policed it, ensuring that whoever broke the build was working to fix it. If not, the build engineer **would revert that check-in**.
+- Not only mantain the build but **also policed it**, ensuring that whoever broke the build was working to fix it.
+- If not, the build engineer **would revert that check-in**.
 
 ---
 
