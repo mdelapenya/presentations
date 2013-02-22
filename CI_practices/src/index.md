@@ -253,6 +253,10 @@
 
 # Don't Comment out Failing Tests
 
+<div style="display: table; width: 100%; height: 550px; text-align: center">
+	<img title="Don't Comment out Failing Tests" src="img/sweep-carpet.png" style="height: 550px"/>
+</div>
+
 ---
 
 # Don't Comment out Failing Tests
