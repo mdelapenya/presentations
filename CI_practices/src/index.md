@@ -301,13 +301,17 @@
 
 # Test-Driven Development
 
+<div style="display: table; width: 100%; height: 550px; text-align: center">
+	<img title="All code is guilty until proven innocent" src="img/tdd.png" style="height: 550px"/>
+</div>
+
 ---
 
 # TDD
 
 - Test suite is essential to CI
 - When developing a new piece of functionality or fixing a bug:
-	1) Create a test that is an executable specification of the expected behaviour of the code to be written
+	- Create a test that is an **executable specification of the expected behaviour** of the code to be written
 		- Application design
 		- Regression tests
-		- Documentation of the code and application's expected behaviour
+		- Documentation of the code
