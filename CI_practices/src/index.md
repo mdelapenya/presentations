@@ -126,8 +126,21 @@
 
 # ...or send a pull request!!
 
-<img src="img/github-logo.png" style="width: 50%; height: 30%;" title="Github"/>
-<img src="img/jenkins-logo.png" style="width: 60%; height: 30%;" title="Jenkins"/>
+<div style="width: 99%; text-align: center; vertical-align: middle;padding: 5px;">
+	<div style="width: 100%">
+		<img src="img/github-logo.png" style="height: 30%;" title="Github"/>
+	</div>
+	<div style="width: 100%">
+		<img src="img/brianchandotcom.jpeg" style="height: 15%;" title="Brian"/>
+		<img src="img/juliocamarero.jpeg" style="height: 15%;" title="Julio"/>
+		<img src="img/sergiogonzalez.jpeg" style="height: 15%;" title="Sergio"/>
+		<img src="img/githubber.png" style="height: 15%;" title="Github User 1"/>
+		<img src="img/githubber.png" style="height: 15%;" title="Github User 2"/>
+	</div>
+	<div style="width: 100%">
+		<img src="img/jenkins-logo.png" style="height: 30%;" title="Jenkins"/>
+	</div>
+</div>
 
 ---
 
