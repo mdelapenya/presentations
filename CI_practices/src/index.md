@@ -337,8 +337,8 @@
 # TDD
 
 - Test suite is essential to CI
-- When developing a new piece of functionality or fixing a bug:
-	- Create a test that is an **executable specification of the expected behaviour** of the code to be written
+- Create tests when developing a new piece of functionality or fixing a bug:
+	- Is an **executable specification of the expected behaviour** of the code to be written.
 		- Application design
 		- Regression tests
 		- Documentation of the code
