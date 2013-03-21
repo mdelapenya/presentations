@@ -174,6 +174,17 @@
 
 ---
 
+# Wait for Commit Tests to Pass
+
+- It's only **15-20 minutes**!!
+- You can have a coffee
+- Go to the bathroom
+- Prepare your next action
+- Organize the mail
+- ...
+
+---
+
 # Practice 4
 
 ---
