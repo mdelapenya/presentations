@@ -57,7 +57,7 @@
 
 ---
 
-# Don't check in on a broken build
+# Don't check in on a broken build (I)
 
 - It will compound the failure with more problems.
 
@@ -65,7 +65,7 @@
 
 ---
 
-# Don't check in on a broken build
+# Don't check in on a broken build (II)
 
 - It takes much long for the build to be fixed.
 
@@ -73,7 +73,7 @@
 
 ---
 
-# Don't check in on a broken build
+# Don't check in on a broken build (III)
 
 - If we get used to seeing the build broken: Build stays broken all the time.
 
@@ -81,7 +81,7 @@
 
 ---
 
-# Don't check in on a broken build
+# Don't check in on a broken build (IV)
 
 - The long term broken build is usually fixed by an Herculean effort of somebody on the team (**Miguel**), and the process starts again.
 
