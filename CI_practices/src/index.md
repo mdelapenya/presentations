@@ -167,6 +167,8 @@
 - Aim: To find error and eliminate them ASAP, **without expecting perfection and zero errors**.
 - Build breakages are a normal and expected part of the process.
 
+![Monitoring the build](img/broken-toy.png)
+
 ---
 
 # Practice 4
