@@ -92,6 +92,12 @@
 
 # Always run test locally
 
+![Always run test locally](img/simpsons-drinking-bird.png)
+
+---
+
+# Always run test locally
+
 - A commit triggers the creation of a **release candidate**.
 - It is a way to ensure that **what we believe to work actually does**.
 - What happens if someone checks in before your last update and the combination cause tests to fail?
@@ -104,6 +110,8 @@
 	1. Refresh local copy of the project
 	2. Initiate a local build and run the commit tests.
 	3. Only when the build is successful is the developer ready to commit the changes.
+
+## Jenkins shows the last build state: look it up!
 
 ---
 
