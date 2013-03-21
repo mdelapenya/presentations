@@ -199,6 +199,10 @@
 
 # Discipline on Distributed projects
 
+---
+
+# Discipline on Distributed projects
+
 - Constant stream of changes committed to the version control system and a constant stream of new builds being triggered
 <img src="img/mapamundi.png" style="width:100%" />
 
