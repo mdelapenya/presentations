@@ -40,9 +40,12 @@
 
 # Don't check in on a broken build
 
-- If responsible developers are waiting to fix it, then...
-	- They identify the cause of the breakage **as soon as possible** and fix it.
-	- **Best position to work out** what caused the breakage and fix it inmediately.
+- Instead of checking in...
+	- Responsible developers must wait to fix it:
+		- They identify the cause of the breakage **as soon as possible** and fix it.
+		- **Best position to work out** what caused the breakage and fix it inmediately.
+
+<img src="img/dog-pointing.png" style="height: 35%;" title=" They identify the cause of the breakage **as soon as possible** and fix it"/>
 
 ---
 
