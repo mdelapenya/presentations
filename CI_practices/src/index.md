@@ -184,9 +184,9 @@
 # Never go home on a broken build
 
 - If you broke the build on a Friday at 5'30...
-	1. Resign yourself that you will be leaving late and try to fix it.
-	2. Revert your changes and retry next week.
-	3. Leave now and leave the build broken.
+	1. **Resign yourself** that you will be leaving late and try to fix it.
+	2. **Revert your changes** and retry next week.
+	3. Leave now and **leave the build broken**.
 
 ---
 
