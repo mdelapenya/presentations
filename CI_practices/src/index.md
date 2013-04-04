@@ -206,7 +206,7 @@
 
 # Never go home on a broken build
 
-- Check-in regularly and **EARLY** enough to give yourself time to deal with problems should they ocur.
+- Check-in regularly and **EARLY** enough to give yourself time to deal with problems should they occur.
 - Save your check-in for the next day
 
 ---
