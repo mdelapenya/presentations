@@ -356,3 +356,20 @@
 		- Application design
 		- Regression tests
 		- Documentation of the code
+
+---
+
+# Conclusions
+
+---
+
+# Conclusions
+
+- Discipline
+- Luke, use the tools!
+- It's expected that everybody commits errors
+- Wait for test to pass doing another productive task
+- Don't be afraid of reverting
+- Responsability
+
+---
