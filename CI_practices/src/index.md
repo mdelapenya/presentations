@@ -12,6 +12,16 @@
 
 ---
 
+# About this Tech Talk
+
+- Based on the book "Continuous Delivery"
+	- Jez Humble, David Farley
+- Chapter 3: Continuous Integration
+
+<img src="img/continuous-delivery-front-cover.png" style="height: 35%;" title="The Book"/>
+
+---
+
 # Continuous Integration
  
 - CI is a practice, not a tool, and requires a significant degree of discipline from the team as a whole.
