@@ -375,9 +375,10 @@
 
 - Discipline
 - Luke, use the tools!
-- It's expected that everybody commits errors
+- Everyone of us can commit errors
 - Wait for test to pass doing another productive task
 - Don't be afraid of reverting
 - Responsability
+- We are following this actually practices (more or less) in a natural way
 
 ---
