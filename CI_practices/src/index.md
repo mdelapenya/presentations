@@ -5,9 +5,7 @@
 # About me
 
 - Manuel de la Peña
-- Software engineer en Liferay, Inc
-- Ingeniero Técnico Informático
-- Apasionado de las nuevas tecnologías
+- Software engineer in Liferay, Inc
 - Twitter: **@mdelapenya**
 
 ---
