@@ -101,13 +101,13 @@
 
 ---
 
-# Always run test locally
+# Always run the tests
 
-![Always run test locally](img/simpsons-drinking-bird.png)
+![Always run the test](img/simpsons-drinking-bird.png)
 
 ---
 
-# Always run test locally
+# Always run the test
 
 - A commit triggers the creation of a **release candidate**.
 - It is a way to ensure that **what we believe to work actually does**.
@@ -115,18 +115,7 @@
 
 ---
 
-# Always run test locally
-
-- Before commiting:
-	1. Refresh local copy of the project
-	2. Initiate a local build and run the commit tests.
-	3. Only when the build is successful is the developer ready to commit the changes.
-
-## Jenkins shows the last build state: look it up!
-
----
-
-# Always run tests locally
+# Always run the tests
 
 - Many tools to run test in a local machine:
 	- ant test-integration, ant test-unit, ant test-class
@@ -152,6 +141,18 @@
 		<img src="img/jenkins-logo.png" style="height: 30%;" title="Jenkins"/>
 	</div>
 </div>
+
+---
+
+# Always run the tests
+
+- The CI server is a **controlled environment**:
+	- Standar O.S. configuration
+	- Standar installed software
+	- Every developer will have the same conditions when executing their tests.
+
+## Jenkins shows the last build state: look it up!
+## Please communicate us if your tests need some kind of configuration.
 
 ---
 
