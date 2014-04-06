@@ -61,10 +61,10 @@
 
 - Centro Coordinador en **Pepino**.
 - Equipo altamente cualificado y con enorme **orientación al ciudadano**.
-- **Misión**:
+- **Objetivos del curso**:
 	- Dotar a las personas en riesgo de exclusión de las **herramientas** necesarias para conseguir un empleo.
-	- Proporcionar los recursos adecuados que exige la sociedad actual para facilitar su acceso al mercado laboral.
-	- Fomentar el autoempleo.
+	- Proporcionar los recursos adecuados que exige la sociedad actual para facilitar su acceso al **mercado laboral**.
+	- Fomentar el **autoempleo**.
 
 ---
 
