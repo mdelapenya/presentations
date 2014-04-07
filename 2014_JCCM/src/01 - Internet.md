@@ -16,9 +16,8 @@
 
 - Buscando en La Red
     - Buscadores
-- Intercambiando Información
-    - Correo Electrónico
 - Conectando con otros
+    - Correo Electrónico
     - Mensajería Instantánea
     - Redes Sociales
 

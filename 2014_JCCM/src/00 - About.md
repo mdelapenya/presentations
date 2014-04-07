@@ -6,6 +6,7 @@
 
 - 07/04/2014 al 11/04/2014
 - 10 a 14 -> **20 horas**
+- Descanso a las **11'15** (20 minutos)
 - **#AprendiendoAEmprender**
 
 ---
