@@ -36,11 +36,10 @@
 - El símbolo |
 - Las comillas
 - Eliminar palabras
-- Términos similares
 - Comodín
 - Rango de Números
+- Sitios relacionados
 - Restringir búsquedas a un pais o dominio específico
-- Voy a tener suerte
 
 <span class="tooltip">
     Fuente: <a target="_blank" href="http://www.tufuncion.com/ayuda-google">http://www.tufuncion.com/ayuda-google</a>
